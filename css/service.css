@@ -236,8 +236,8 @@ footer {
   height: 300px;
 }
 
-  float left;
-  width 25%;
+  float: left;
+  width: 25%;
 }
 
 /* On screens that are 992px wide or less, go from four columns to two columns */
